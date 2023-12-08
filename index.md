@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My GitHub Pages Site
+title: 
 ---
 
-Welcome to my GitHub Pages site!
+Welcome to my website! Feel free to stalk my pages to get a better sense of who I am and what my research is about. This website is a work in progress. 

@@ -1,8 +1,7 @@
 ---
 layout: home
-title: 
+title:  Hola, I'm Juanita Pardo Sanchez
 ---
-# Hola, I'm Juanita Pardo Sanchez
 
 ![](Headshot1.jpeg)
 

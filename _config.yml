@@ -2,5 +2,5 @@ theme: minima
 
 header_pages:
 - home.md
-- aboutme.md
+- Research.md
 - contact.md
